@@ -1,4 +1,4 @@
-# EDCalmSims
+# EDCalmSimss
 
 Prototype Next.js (App Router) app for EDCalmSim.
 
